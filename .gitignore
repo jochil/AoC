@@ -1,3 +1,4 @@
 input
 input_*
+!input_example*
 __pycache__
